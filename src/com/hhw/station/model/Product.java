@@ -31,8 +31,7 @@ public class Product {
 
     @Override
     public String toString() {
-        System.out.println("=====master=====");
-        System.out.println("===dev===");
+        System.out.println("=====dev2=====");
         return "Product{" +
                 "id=" + id +
                 ", productName='" + productName + '\'' +
